@@ -1,6 +1,6 @@
 {
-  "name": "jonathantanudjaja/php-spo",
-  "description": "Fork from vgrem/phpSPO",
+  "name": "vgrem/php-spo",
+  "description": "The library provides a Office 365 REST client for PHP. It allows to performs CRUD operations against Office 365 resources via an REST/OData based API",
   "type": "library",
   "keywords": [
     "sharepoint",
@@ -13,10 +13,6 @@
     {
       "name": "Vadim Gremyachev",
       "email": "vvgrem@gmail.com"
-    },
-    {
-      "name": "Jonathan Tanudjaja",
-      "email": "jonathantanudjaja@gmail.com"
     }
   ],
   "license": "LGPL-3.0+",
